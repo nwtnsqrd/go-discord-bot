@@ -1,0 +1,12 @@
+{
+  "Bot": {
+    "bot_name": "nwtnbot",
+    "bot_token": "token",
+    "bot_info": "My name is Greg and I'm nwtnsqrds bot. I'm written in Golang and will be happy to serve your requests. Type !commands to see what I'm capable of."
+  },
+  "Commands": {
+    "uptime": "!uptime",
+    "ping": "!ping",
+    "info": "!info"
+  }
+}
